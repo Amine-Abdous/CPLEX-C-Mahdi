@@ -16,9 +16,6 @@ void dat2(int &d) {
 
 	// checking that the file exists
 	
-
-
-
 	int T, k, n;
 
 	instIN2 >> T;
